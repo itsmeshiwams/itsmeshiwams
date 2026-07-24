@@ -73,15 +73,7 @@ public class Shiwams : Enthusiast
   <img src="https://raw.githubusercontent.com/itsmeshiwams/itsmeshiwams/output/github-contribution-grid-snake.svg">
 </div>
 
-<br>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsmeshiwams&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
-<br>
+<br
 
 ## 🌱 Currently Exploring
 
