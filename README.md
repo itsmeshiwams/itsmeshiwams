@@ -66,8 +66,6 @@ public class Shiwams
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,react,nodejs,mysql,git,github,postman,vscode,linux"/>
-
 </p>
 
 ---
