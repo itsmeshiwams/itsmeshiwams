@@ -73,7 +73,7 @@ public class Shiwams : Enthusiast
   <img src="https://raw.githubusercontent.com/itsmeshiwams/itsmeshiwams/output/github-contribution-grid-snake.svg">
 </div>
 
-<br
+
 
 ## 🌱 Currently Exploring
 
