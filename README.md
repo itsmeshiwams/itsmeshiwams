@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="images/banner.png" width="100%">
 
 # 👋 Hi, I'm **Shiwams Phuyal**
 
