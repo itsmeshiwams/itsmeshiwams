@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shiwams%20Phuyal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20.NET%20Developer%20%7C%20BSc.CSIT%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shiwams%20Phuyal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20.NET%20Enthusiast%20%7C%20BSc.CSIT%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;ASP.NET+Core+Developer+%F0%9F%92%99;Building+Secure+Applications+%F0%9F%94%90;Always+Learning+New+Technologies+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;ASP.NET+Core+Enthusiast+%F0%9F%92%99;Building+Secure+Applications+%F0%9F%94%90;Always+Learning+New+Technologies+%F0%9F%9A%80"/>
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/shiwams-phuyal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:itsmeshiwams@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/itsmeshiwams">
@@ -29,11 +29,11 @@
 ## 💻 About Me
 
 ```csharp
-public class Shiwams : Developer
+public class Shiwams : Enthusiast
 {
     private readonly string _name = "Shiwams Phuyal";
     private readonly string _education = "BSc.CSIT (7th Semester) @ Tribhuvan University";
-    private readonly string _role = ".NET Developer";
+    private readonly string _role = ".NET Enthusiast";
     private readonly string _passion = "Cybersecurity & Ethical Hacking";
     private readonly string _location = "Kathmandu, Nepal";
 
