@@ -32,7 +32,7 @@
 public class Shiwams : Enthusiast
 {
     private readonly string _name = "Shiwams Phuyal";
-    private readonly string _education = "BSc.CSIT (7th Semester) @ Tribhuvan University";
+    private readonly string _education = "BSc.CSIT (8th Semester) @ Tribhuvan University";
     private readonly string _role = ".NET Enthusiast";
     private readonly string _passion = "Cybersecurity & Ethical Hacking";
     private readonly string _location = "Kathmandu, Nepal";
